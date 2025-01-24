@@ -1,10 +1,14 @@
 # air-sensor
 
-[임재홍-클라우드데이터엔지니어과정-프로젝트(실시간공기질대시보드).pdf](https://github.com/user-attachments/files/18530271/-.-.pdf)
+- [임재홍-클라우드데이터엔지니어과정-프로젝트(실시간공기질대시보드).pdf](https://github.com/user-attachments/files/18530271/-.-.pdf)
+- [quicksight-대시보드스크린샷-전체_시간대별_평균_2025-01-24T02_34_15.pdf](https://github.com/user-attachments/files/18530320/quicksight-.-._._._2025-01-24T02_34_15.pdf)
+- [quicksight-대시보드스크린샷-오늘_하루_평균_2025-01-24T02_33_57.pdf](https://github.com/user-attachments/files/18530319/quicksight-.-._._._2025-01-24T02_33_57.pdf)
+- [quicksight-대시보드스크린샷-최신_2025-01-24T02_34_40.pdf](https://github.com/user-attachments/files/18530318/quicksight-.-._2025-01-24T02_34_40.pdf)
 
 
 
-![임재홍-클라우드데이터엔지니어과정-프로젝트(실시간공기질대시보드)_page-0001](https://github.com/user-attachments/assets/5d61935a-ce2e-4c26-a1fd-0cdcb4115930)
+---
+
 ![임재홍-클라우드데이터엔지니어과정-프로젝트(실시간공기질대시보드)_page-0002](https://github.com/user-attachments/assets/a443fe57-7284-4753-a9a3-eac7d8627cba)
 ![임재홍-클라우드데이터엔지니어과정-프로젝트(실시간공기질대시보드)_page-0003](https://github.com/user-attachments/assets/c9f150ff-3a59-4c24-9a0f-359861958834)
 ![임재홍-클라우드데이터엔지니어과정-프로젝트(실시간공기질대시보드)_page-0004](https://github.com/user-attachments/assets/83ea568c-52a9-41fd-aae5-5b9f6b52eb82)
